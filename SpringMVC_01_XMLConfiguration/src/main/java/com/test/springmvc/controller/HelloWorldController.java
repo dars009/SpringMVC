@@ -1,4 +1,4 @@
-package com.websystique.springmvc.controller;
+package com.test.springmvc.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.ModelMap;
