@@ -7,8 +7,10 @@
 <title>New User Page</title>
 </head>
 <body>
-New User Page
-
-
+<form action="addUser" method="post">
+	Name : <input type="text" name="name"><br><br>
+	ID : <input type="text" name="id"><br> <br>
+		 <input type="submit" value="add user">
+</form>
 </body>
 </html>
