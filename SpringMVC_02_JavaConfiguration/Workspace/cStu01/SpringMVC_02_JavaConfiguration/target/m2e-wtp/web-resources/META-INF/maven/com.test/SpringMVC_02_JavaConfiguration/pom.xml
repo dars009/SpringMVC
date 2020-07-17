@@ -8,7 +8,7 @@
   <description>SpringMVC_02_JavaConfiguration no xml</description>
   
   <properties>
-        <springframework.version>5.1.2.RELEASE</springframework.version>
+        <springframework.version>5.1.14.RELEASE</springframework.version>
     </properties>
  
     <dependencies>
