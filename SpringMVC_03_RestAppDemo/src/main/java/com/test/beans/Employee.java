@@ -2,17 +2,17 @@ package com.test.beans;
 
 public class Employee {
  
-	private String id;
+	private Integer id;
 	private String firstName;
 	private String lastName;
-	private int age;
+	private Integer age;
 	private double salary;
  
 	public Employee() {
 		super();
 	}
  
-	public Employee(String id, String firstName, String lastName, int age, double salary) {
+	public Employee(Integer id, String firstName, String lastName, int age, double salary) {
 		super();
 		this.id = id;
 		this.firstName = firstName;
@@ -21,11 +21,11 @@ public class Employee {
 		this.salary = salary;
 	}
  
-	public String getId() {
+	public Integer getId() {
 		return id;
 	}
  
-	public void setId(String id) {
+	public void setId(Integer id) {
 		this.id = id;
 	}
  
