@@ -10,7 +10,7 @@
 	<description>SpringMVC_03_RestAppDemo no xml</description>
 
 	<properties>
-		<springframework.version>5.1.2.RELEASE</springframework.version>
+		<springframework.version>5.3.18</springframework.version>
 	</properties>
 
 	<dependencies>
